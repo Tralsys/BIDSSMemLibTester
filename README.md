@@ -1,4 +1,7 @@
 # BIDSSMemLibTester
+[![Pack Latest Build](https://github.com/Tralsys/BIDSSMemLibTester/actions/workflows/PackAction.yml/badge.svg)](https://github.com/Tralsys/BIDSSMemLibTester/actions/workflows/PackAction.yml)
+[![Build And Test](https://github.com/Tralsys/BIDSSMemLibTester/actions/workflows/TestAction.yml/badge.svg)](https://github.com/Tralsys/BIDSSMemLibTester/actions/workflows/TestAction.yml)
+
 BIDSSmemLibを使用し, BIDSSMemのテストを行うツール群です.
 
 ## License
